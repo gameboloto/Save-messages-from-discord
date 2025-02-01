@@ -1,3 +1,8 @@
+```
+pip install disnake
+python save_messages.py
+```
+
 # Настройки бота
 ```
 #токен бота дискорд 
