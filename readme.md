@@ -6,7 +6,7 @@ python save_messages.py
 # Настройки бота
 ```
 #токен бота дискорд 
-TOKEN = 'YOUR_BOT_TOKEN' ```
+TOKEN = 'YOUR_BOT_TOKEN' 
 ```
 ```
 # ID пользователя, сообщения которого нужно скачать
